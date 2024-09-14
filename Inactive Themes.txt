@@ -352,7 +352,7 @@ site_component {
       }
     }
     header_background {
-      resource_id: "1QcckOK9uWT5BiphryyfvQ8vZdBO8LOwkzsv2naoO4zPa6bFTAA"
+      resource_id: "1I2ZxZGfHb6mkG9ln2fTewuTs2pSBOL5cbFHC7ssp3XQu_DJVng"
       image_rotation: 0
       overlay_color_style: "DARK"
       overlay_color_opacity: 0.3
